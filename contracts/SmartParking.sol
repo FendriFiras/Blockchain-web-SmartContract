@@ -21,7 +21,7 @@ event SpotCompleted(
     bool completed
   );
 constructor() public {
-        createSpot("welcome to our website");   
+        createSpot("Default Parking Spot");   
     }
 
   
